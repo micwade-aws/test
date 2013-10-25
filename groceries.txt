@@ -1,6 +1,6 @@
 apples
 oranges
-mangosteens
+mangosteen
 
 [corbo's bakery]
 - chocolates
