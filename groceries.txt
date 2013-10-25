@@ -6,4 +6,5 @@ mangosteens
 - kielbasa
 - pierogi
 - potato pancakes
+- onions
 - 
